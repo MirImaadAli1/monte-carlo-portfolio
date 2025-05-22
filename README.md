@@ -14,7 +14,7 @@ This project simulates the future performance of a diversified stock portfolio o
 
 ---
 
-## 🧠 What The Project Shows
+## 🧠 Key Concepts Demonstrated
 
 - How to fetch historical stock data using `yfinance`
 - How to compute daily returns, mean returns, and a covariance matrix
